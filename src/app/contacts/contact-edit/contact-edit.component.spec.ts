@@ -11,7 +11,7 @@ import { Contact, ContactService, FavoriteIconDirective, InvalidEmailModalCompon
 import { AppMaterialModule } from '../../app.material.module';
 import { ContactEditComponent } from './contact-edit.component';
 
-import '../../../material-app-theme.scss';
+// import '../../../material-app-theme.scss';
 
 describe('ContactEditComponent tests', () => {
   let fixture: ComponentFixture<ContactEditComponent>;
